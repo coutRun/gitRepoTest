@@ -3,4 +3,3 @@ init Dev
 init feature1
 feature1 commit
 release
-commit to squash
